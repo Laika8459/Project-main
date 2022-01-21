@@ -4,25 +4,50 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div class="footer-info">
               <h3>SAMARN</h3>
               <p>
               269/10 หมู้บ้านทิพย์สุวรรณ ถนนบางกรวย-ไทรน้อย <br>
-              ตำบลโสนลอย อำเภอบางบัวทอง จังหวังนนทบุรี 11110<br><br>
-                <strong>Phone:</strong> 087-517-1646<br>
-                <strong>Email:</strong> samarn@hotmail.com<br>
+              ตำบลโสนลอย อำเภอบางบัวทอง จังหวังนนทบุรี 11110<br>
+               <!-- <strong>Phone:</strong> 087-517-1646<br>
+                <strong>Email:</strong> samarn@hotmail.com<br> -->
               </p>
-              <div class="social-links mt-3">
+              <br>
+              <div class="social-links ">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+               
               </div>
             </div>
           </div>
 
+
+
+          <div class="col-lg-6 col-md-6">
+            <div class="footer-info">
+              <h3>SAMARN</h3>
+              
+              <!-- 269/10 หมู้บ้านทิพย์สุวรรณ ถนนบางกรวย-ไทรน้อย <br>
+              ตำบลโสนลอย อำเภอบางบัวทอง จังหวังนนทบุรี 11110<br><br> -->
+              <p>
+                Phone: 087-517-1646<br>
+                Email: samarn@hotmail.com<br>
+              </p>
+              <br>
+              <div class="social-links">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+              
+              </div>
+            </div>
+          </div>
+
+          <!--
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
@@ -44,7 +69,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
           </div>
-
+        -->
          
 
         </div>

@@ -258,8 +258,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Reserve</span>
-          <h2>Reserve</h2>
+          <span>Detail</span>
+          <h2>Detail</h2>
           <p>Detail of the room and Reserve the room</p>
         </div>
 
@@ -328,9 +328,7 @@
               <img src="{{asset('front_end/assets/img/team/team-1.jpg')}}" alt="">
               <h4>นายธนวัต สาระเวก</h4>
               <span>Front End</span>
-              <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
-              </p>
+              
               <div class="social">
 
                 <a href="https://www.facebook.com/thanawat.bom.359"><i class="bi bi-facebook"></i></a>
@@ -345,9 +343,7 @@
               <img src="{{asset('front_end/assets/img/team/team-2.jpg')}}" alt="">
               <h4>นายนาราชา บุญประเสริฐ</h4>
               <span>Tester</span>
-              <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
-              </p>
+              
               <div class="social">
 
                 <a href="https://www.facebook.com/naracha.boonpasert"><i class="bi bi-facebook"></i></a>
@@ -362,9 +358,7 @@
               <img src="{{asset('front_end/assets/img/team/team-3.jpg')}}" alt="">
               <h4>นายณัชพล ภัทรเสรี</h4>
               <span>ฺBack end</span>
-              <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
-              </p>
+             
               <div class="social">
 
                 <a href="https://www.facebook.com/nutchapol.nut/"><i class="bi bi-facebook"></i></a>
@@ -419,7 +413,7 @@
 
         <div class="row" data-aos="fade-up">
 
-          <div class="col-lg-6 ">
+          <div class="col-lg-12 ">
             <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61962.19174344462!2d100.38259686376279!3d13.920633600923438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e28f9f89fc74c1%3A0x60bb62021900da6d!2z4LiL4Lit4LiiIOC4iuC4uOC4oeC4iuC4meC4leC4peC4suC4lOC5gOC4geC5iOC4siDguJXguLPguJrguKXguYLguKrguJnguKXguK3guKIg4Lit4Liz4LmA4Lig4Lit4Lia4Liy4LiH4Lia4Lix4Lin4LiX4Lit4LiHIOC4meC4meC4l-C4muC4uOC4o-C4tSAxMTExMA!5e0!3m2!1sth!2sth!4v1628485920526!5m2!1sth!2sth" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
           </div>
 
